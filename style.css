@@ -1,0 +1,14 @@
+.contenedor a{
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor a div{
+    display: flex;
+    flex-direction: column;
+}
+
+.mb-1{
+    font-size: 15px;
+    font-weight: normal;
+}
